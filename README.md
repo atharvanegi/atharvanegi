@@ -1,12 +1,23 @@
 <div align="center">
 
+# 
 
+```
+██╗  ██╗███████╗██╗     ██╗      ██████╗ 
+██║  ██║██╔════╝██║     ██║     ██╔═══██╗
+███████║█████╗  ██║     ██║     ██║   ██║
+██╔══██║██╔══╝  ██║     ██║     ██║   ██║
+██║  ██║███████╗███████╗███████╗╚██████╔╝
+╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ 
+```
+
+# **I AM ATHARVA**
 
 ### `Software Engineer & Full Stack Developer`
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Building+innovative+software+solutions;Master's+in+Computer+Science+%40+Emory;1%2B+years+of+professional+experience;Passionate+about+AI+%26+Machine+Learning" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=atharvanegi&color=FF6B6B&style=for-the-badge&base=533)
+![Profile Views](https://komarev.com/ghpvc/?username=atharvanegi&color=FF6B6B&style=for-the-badge&base=133)
 
 ---
 
@@ -24,30 +35,23 @@ Currently pursuing advanced coursework in **Machine Learning** and **Natural Lan
 
 ## **EDUCATION & EXPERIENCE**
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
 ### 🎓 **EDUCATION**
-- **Master's in Computer Science**  
-  `Emory University`
-- **Bachelor's in Computer Engineering**  
-  `Devi Ahilya University`
 
-</td>
-<td width="50%">
+<img src="https://img.shields.io/badge/Master's_in_Computer_Science-Emory_University-FF6B6B?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
 
-### 💼 **EXPERIENCE**
-- **Software Engineer**  
-  `Emory University`
-- **Software Engineer**  
-  `Cognizant`
-- **Software Engineer Intern**  
-  `Cognizant`
+<img src="https://img.shields.io/badge/Bachelor's_in_Computer_Engineering-Devi_Ahilya_University-4CAF50?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
 
-</td>
-</tr>
-</table>
+### 💼 **PROFESSIONAL EXPERIENCE**
+
+<img src="https://img.shields.io/badge/Software_Engineer-Emory_University-0066CC?style=for-the-badge&logo=microsoft-academic&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Software_Engineer-Cognizant-FF9900?style=for-the-badge&logo=cognizant&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Software_Engineer_Intern-Cognizant-FF9900?style=for-the-badge&logo=cognizant&logoColor=white"/>
+
+</div>
 
 ---
 
