@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm a passionate Software Engineer with 1+ years of experience in full-stack and backend systems development, currently pursuing my Master's in Computer Science at Emory University.
 
-![Profile Views](https://komarev.com/ghpvc/?username=atharvanegi&color=brightgreen&style=flat-square&base=133)
+![Profile Views](https://komarev.com/ghpvc/?username=atharvanegi&color=brightgreen&style=flat-square&base=533)
 
 ---
 
